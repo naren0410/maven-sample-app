@@ -8,5 +8,6 @@
 - Build package: `$ mvn clean install`
 
 - Run APP: `$ mvn tomcat:run`
-  
+
+- Made changes   
 
